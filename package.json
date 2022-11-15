@@ -1,0 +1,20 @@
+{
+  "name": "test_unitario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/millananayamiguel/Test_unitario.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/millananayamiguel/Test_unitario/issues"
+  },
+  "homepage": "https://github.com/millananayamiguel/Test_unitario#readme"
+}
